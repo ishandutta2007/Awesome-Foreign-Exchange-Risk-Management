@@ -51,7 +51,7 @@ A curated directory of top open-source quantitative finance frameworks, risk ana
 
 ### 🧮 Core Quantitative Frameworks & Engines
 
-| Project | Stars | Description | License | Key Notes |
+| Project | Github_Stars | Description | License | Key Notes |
 |---------|-------|-------------|---------|-----------|
 | **[microsoft/qlib](https://github.com/microsoft/qlib)** | [<img src="https://img.shields.io/github/stars/microsoft/qlib?style=social&color=white" alt="qlib Stars"/>](https://github.com/microsoft/qlib/stargazers) | AI-oriented quantitative investment platform covering data processing, strategy backtesting, exposure risk, and portfolio optimization. | MIT | Production-grade AI & quantitative risk framework |
 | **[nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)** | [<img src="https://img.shields.io/github/stars/nautechsystems/nautilus_trader?style=social&color=white" alt="nautilus_trader Stars"/>](https://github.com/nautechsystems/nautilus_trader/stargazers) | High-performance Rust & Python event-driven algorithmic trading engine supporting complex FX hedging workflows and risk checks. | LGPL-3.0 | Event-driven FX trading & risk engine |
